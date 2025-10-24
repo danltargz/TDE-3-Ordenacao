@@ -1,0 +1,7 @@
+Algoritmo,Vetor 1,Vetor 2,Vetor 3,Total
+Bubble Sort,195,20,209,424
+Selection Sort,209,209,209,627
+Cocktail Sort,160,20,200,380
+Comb Sort,138,118,138,394
+Gnome Sort,176,20,400,596
+Bucket Sort,277,172,194,643

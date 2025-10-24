@@ -1,0 +1,19 @@
+Vetor,Algoritmo,Comparacoes,Trocas,Iteracoes
+Vetor 1,Bubble Sort,180,78,195
+Vetor 1,Selection Sort,190,18,209
+Vetor 1,Cocktail Sort,154,78,160
+Vetor 1,Comb Sort,129,22,138
+Vetor 1,Gnome Sort,174,78,176
+Vetor 1,Bucket Sort,0,78,277
+Vetor 2,Bubble Sort,19,0,20
+Vetor 2,Selection Sort,190,0,209
+Vetor 2,Cocktail Sort,19,0,20
+Vetor 2,Comb Sort,110,0,118
+Vetor 2,Gnome Sort,19,0,20
+Vetor 2,Bucket Sort,0,73,172
+Vetor 3,Bubble Sort,190,190,209
+Vetor 3,Selection Sort,190,10,209
+Vetor 3,Cocktail Sort,190,190,200
+Vetor 3,Comb Sort,129,18,138
+Vetor 3,Gnome Sort,380,190,400
+Vetor 3,Bucket Sort,0,75,194
